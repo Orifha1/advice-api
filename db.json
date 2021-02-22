@@ -14,7 +14,179 @@
             "id": 2,
             "saidBy": "Steve Jobs",
             "advice": "You have to be burning with an idea, or a problem, or a wrong that you want to right. If you're not passionate enough from the start, you'll never stick it out."
+        },
+        {
+            "id": 3,
+            "saidBy": "Walt Disney",
+            "advice": "The Best Way To Get Started Is To Quit Talking And Begin Doing."
+        },
+        {
+            "id": 4,
+            "saidBy": "Winston Churchill",
+            "advice": "The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty."
+        },
+        {
+            "id": 5,
+            "saidBy": "Will Rogers",
+            "advice": "Don’t Let Yesterday Take Up Too Much Of Today."
+        },
+        {
+            "id": 6,
+            "saidBy": "Unknown",
+            "advice": "You Learn More From Failure Than From Success. Don’t Let It Stop You. Failure Builds Character."
+        },
+        {
+            "id": 7,
+            "saidBy": "Vince Lombardi",
+            "advice": "It’s Not Whether You Get Knocked Down, It’s Whether You Get Up."
+        },
+        {
+            "id": 8,
+            "saidBy": "Steve Jobs",
+            "advice": "If You Are Working On Something That You Really Care About, You Don’t Have To Be Pushed. The Vision Pulls You."
+        },
+        {
+            "id": 9,
+            "saidBy": "Rob Siltanen",
+            "advice": "People Who Are Crazy Enough To Think They Can Change The World, Are The Ones Who Do."
+        },
+        {
+            "id": 10,
+            "saidBy": "Og Mandino",
+            "advice": "Failure Will Never Overtake Me If My Determination To Succeed Is Strong Enough."
+        },
+        {
+            "id": 11,
+            "saidBy": "Mohnish Pabrai",
+            "advice": "Entrepreneurs Are Great At Dealing With Uncertainty And Also Very Good At Minimizing Risk. That’s The Classic Entrepreneur."
+        },
+        {
+            "id": 12,
+            "saidBy": "Maya Angelou",
+            "advice": "We May Encounter Many Defeats But We Must Not Be Defeated."
+        },
+        {
+            "id": 13,
+            "saidBy": "Johann Wolfgang Von Goethe",
+            "advice": "Knowing Is Not Enough; We Must Apply. Wishing Is Not Enough; We Must Do."
+        },
+        {
+            "id": 14,
+            "saidBy": "Brian Tracy",
+            "advice": "Imagine Your Life Is Perfect In Every Respect; What Would It Look Like?"
+        },
+        {
+            "id": 15,
+            "saidBy": "Dr. Henry Link",
+            "advice": "We Generate Fears While We Sit. We Overcome Them By Action."
+        },
+        {
+            "id": 16,
+            "saidBy": "Henry Ford",
+            "advice": "Whether You Think You Can Or Think You Can’t, You’re Right."
+        },
+        {
+            "id": 17,
+            "saidBy": "Hasidic Proverb",
+            "advice": "The Man Who Has Confidence In Himself Gains The Confidence Of Others."
+        },
+        {
+            "id": 18,
+            "saidBy": "Franklin D. Roosevelt",
+            "advice": "The Only Limit To Our Realization Of Tomorrow Will Be Our Doubts Of Today."
+        },
+        {
+            "id": 19,
+            "saidBy": "Albert Einstein",
+            "advice": "Creativity Is Intelligence Having Fun."
+        },
+        {
+            "id": 20,
+            "saidBy": "Don Zimmer",
+            "advice": "What You Lack In Talent Can Be Made Up With Desire, Hustle And Giving 110% All The Time."
+        },
+        {
+            "id": 21,
+            "saidBy": "Theodore Roosevelt",
+            "advice": "Do What You Can With All You Have, Wherever You Are."
+        },
+        {
+            "id": 22,
+            "saidBy": "Brian Tracy",
+            "advice": "Develop An ‘Attitude Of Gratitude’. Say Thank You To Everyone You Meet For Everything They Do For You."
+        },
+        {
+            "id": 23,
+            "saidBy": "C.S. Lewis",
+            "advice": "You Are Never Too Old To Set Another Goal Or To Dream A New Dream."
+        },
+        {
+            "id": 24,
+            "saidBy": "Confucius",
+            "advice": "To See What Is Right And Not Do It Is A Lack Of Courage."
+        },
+        {
+            "id": 25,
+            "saidBy": "Brian Tracy",
+            "advice": "Reading Is To The Mind, As Exercise Is To The Body."
+        },
+        {
+            "id": 26,
+            "saidBy": "Brian Tracy",
+            "advice": "Fake It Until You Make It! Act As If You Had All The Confidence You Require Until It Becomes Your Reality."
+        },
+        {
+            "id": 27,
+            "saidBy": "Brian Tracy",
+            "advice": "The Future Belongs To The Competent. Get Good, Get Better, Be The Best!"
+        },
+        {
+            "id": 28,
+            "saidBy": "Jack Canfield",
+            "advice": "For Every Reason It’s Not Possible, There Are Hundreds Of People Who Have Faced The Same Circumstances And Succeeded."
+        },
+        {
+            "id": 29,
+            "saidBy": "John Wooden",
+            "advice": "Things Work Out Best For Those Who Make The Best Of How Things Work Out."
+        },
+        {
+            "id": 30,
+            "saidBy": " Marcus Tullius Cicero",
+            "advice": "A Room Without Books Is Like A Body Without A Soul."
+        },
+        {
+            "id": 31,
+            "saidBy": "Michael Phelps",
+            "advice": "I Think Goals Should Never Be Easy, They Should Force You To Work, Even If They Are Uncomfortable At The Time."
+        },
+        {
+            "id": 32,
+            "saidBy": "Michelle Obama",
+            "advice": "One Of The Lessons That I Grew Up With Was To Always Stay True To Yourself And Never Let What Somebody Else Says Distract You From Your Goals."
+        },
+        {
+            "id": 33,
+            "saidBy": "Robert H. Schuller",
+            "advice": "Today’s Accomplishments Were Yesterday’s Impossibilities."
+        },
+        {
+            "id": 34,
+            "saidBy": "Steve Jobs",
+            "advice": "The Only Way To Do Great Work Is To Love What You Do. If You Haven’t Found It Yet, Keep Looking. Don’t Settle."
+        },
+        {
+            "id": 35,
+            "saidBy": "Zig Ziglar",
+            "advice": "You Don’t Have To Be Great To Start, But You Have To Start To Be Great."
         }
+
+
+        
+
     ]
 }
-    
+ 
+
+
+ 
