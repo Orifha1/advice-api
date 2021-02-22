@@ -1,0 +1,20 @@
+{
+    "advicer": [
+        {
+            "id": 0,
+            "saidBy": "Benjamin Franklin",
+            "advice": "Never ruin an apology with an excuse."
+        },
+        {
+            "id": 1,
+            "saidBy": "Abraham Lincoln",
+            "advice": "The best way to predict your future is to create it.."
+        },
+        {
+            "id": 2,
+            "saidBy": "Steve Jobs",
+            "advice": "You have to be burning with an idea, or a problem, or a wrong that you want to right. If you're not passionate enough from the start, you'll never stick it out."
+        }
+    ]
+}
+    
